@@ -1,0 +1,46 @@
+/* Styles go here */
+.center{
+
+    margin: auto;
+    width: 50%;
+    border: 3px solid gold;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+body{
+	background-image: url("../dice.jpg");
+
+	background-size: cover;
+}
+
+.button {
+  background-color: #fbe573; 
+  border: none;
+  color: black;
+  padding: 9px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+
+}
+
+.button1 {
+  background-color: #C19A6B; 
+  border: none;
+  color: black;
+  padding: 9px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  
+}
+
+.center-text{
+	
+	font-family: "Lucida Console", Courier, monospace;
+
+}
